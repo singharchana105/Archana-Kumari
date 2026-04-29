@@ -17,7 +17,7 @@ Passionate about automation, cloud-native engineering, and building hands-on Dev
 | Category | Tools & Technologies |
 |----------|---------------------|
 | ☁️ Cloud | AWS |
-| 🔐 Identity & Access Management | Amazone EC2 / Amazone S3, AWS Lambda, AWS VPC, Cloude Watch, Route 53, Cloud Front, SNS|
+| 🔐 Identity & Security| Amazone EC2 / Amazone S3, AWS Lambda, AWS VPC, Cloude Watch, IAM, Route 53, Cloud Front, SNS|
 | 📦 Containers | Docker, Docker Compose, Kubernetes, KIND, Helm, HPA, EKS |
 | ⚙️ CI/CD | Git, GitHub, YAML Pipelines |
 | 🧱 Infrastructure as Code | Terraform, Ansible |
