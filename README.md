@@ -24,6 +24,6 @@ Passionate about automation, cloud-native engineering, and building hands-on Dev
 | ⚙️ CI/CD | Git, GitHub, YAML Pipelines |
 | 🧱 Infrastructure as Code | Terraform, Ansible |
 | 📊 Monitoring & Observability | Prometheus, Grafana|
-| 🐧 Scripting| Linux (Ubuntu), Bash, Python, Networking |
+| 🐧 Scripting and Networking| Linux (Ubuntu), Bash, Python, NSG, ASG, VNets, Peering |
 
 ---
